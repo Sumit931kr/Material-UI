@@ -1,0 +1,15 @@
+.imagesize{
+  width: 30vh;
+  height: 25vh;
+  border-radius: 10px;
+}
+.sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
+.stuff{
+  margin: 5vh;
+
+}
